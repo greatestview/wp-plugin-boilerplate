@@ -3,7 +3,7 @@
  * Plugin Name: Nice Plugin
  * Description: Nice Plugin Description
  * Version: 1.0
- * Author: Kim Meyer <kim@greatestview.de>
+ * Author: Kim Meyer <info@greatestview.de>
  * Author URI: https://greatestview.de
  * Text Domain: greatestview-nice-plugin
  */
